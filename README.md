@@ -1,2 +1,3 @@
 # tanmay-demo
-This is my first Repositiry
+This is my first Repository
+Author -Tanmay Das
